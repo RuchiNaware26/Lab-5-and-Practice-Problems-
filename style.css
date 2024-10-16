@@ -3,8 +3,8 @@ border: solid; background-color: rgba(226, 28, 87, 0.5); height: 100px; width: 1
 }
 
 .DIV2{
-    border: dashed; background-color:rgba(45, 226, 217, 0.5); color: black; height: 100px; width: 100px; margin-bottom: 40px;
-    color: black;
+    border: dashed; background-color:rgba(45, 226, 217, 0.5); color: black; height: 100px; width: 100px; margin-bottom: 80px;
+    color: black; display: block;
 }
 
 .DIV3{ 
@@ -23,3 +23,63 @@ nav ul li{
  .content{
     height: 80px;
  }
+
+ .box{
+    height:200px; width: 300px; margin-top: 40px; background-color: beige;
+ }
+
+ .responsive-box{
+    width: 50%; height: 50%; background-color: aquamarine;
+ }
+
+.padded-text{
+    padding: 20px; background-color: rgb(171, 209, 243);
+}
+
+.custom-padding{
+    padding-left: 20px; background-color: bisque; padding-top: 10px; padding-bottom: 10px; padding-right: 20px;
+}
+
+.border-box{
+    border: 2px solid black; background-color: bisque;
+}
+
+.rounded-border{
+    border: dotted 15px; border-color:red; background-color: bisque; 
+}
+
+.margin-text{
+    margin: 30px; background-color: bisque;
+}
+
+.custom-margin{
+    margin-top: 20px; margin-bottom: 20px; margin-left: 40px; margin-right: 40px; background-color: bisque;
+}
+
+.inline-element{
+    display: inline; background-color: bisque;
+}
+
+.block-element{
+    display: block; background-color: bisque;
+}
+
+.inline-block-element{
+    display: inline-block; background-color: bisque;
+}
+
+.hidden-element{
+    display: none; background-color: bisque;
+}
+
+.visible-element{
+    visibility: visible; background-color: bisque;
+}
+
+.invisible-element{
+    visibility: hidden; background-color: bisque;
+}
+
+.transparent-box{
+    background-color:rgba(45, 226, 217, 0.5); 
+}
