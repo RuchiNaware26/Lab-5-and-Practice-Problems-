@@ -1,0 +1,25 @@
+.DIV1{
+border: solid; background-color: rgba(226, 28, 87, 0.5); height: 100px; width: 100px; margin-bottom: 40px;
+}
+
+.DIV2{
+    border: dashed; background-color:rgba(45, 226, 217, 0.5); color: black; height: 100px; width: 100px; margin-bottom: 40px;
+    color: black;
+}
+
+.DIV3{ 
+    border: solid; background-color: rgba(226, 68, 177, 0.5); height: 100px ; width: 100px; 
+}
+
+nav ul li{
+    display: inline-block;
+}
+ nav ul li a{
+    text-decoration: none;
+    margin-right: 80px;
+    color: black;
+ }
+
+ .content{
+    height: 80px;
+ }
